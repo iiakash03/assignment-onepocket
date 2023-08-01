@@ -13,5 +13,6 @@ function sumArrayIntegers(numbersArray) {
     }
   
     return sum;
+    
   }
   

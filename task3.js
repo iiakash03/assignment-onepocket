@@ -13,3 +13,4 @@ function countWordsInFile(filePath) {
 
 const fileName = 'data.txt';
 countWordsInFile(fileName);
+
